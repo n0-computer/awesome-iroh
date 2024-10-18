@@ -27,6 +27,7 @@ Projects & resources building with iroh!
 
 - [Archiving](#archiving)
 - [Browsers](#browsers)
+- [Compute](#compute)
 - [File Sharing](#file-sharing)
 - [Frameworks](#frameworks)
 - [Games and 3D](#games-and-3d)
@@ -46,6 +47,10 @@ Projects & resources building with iroh!
 ## Browsers
 
 - [Oku](https://okubrowser.github.io/) - A Web browser with an emphasis on local-first data storage.
+
+## Compute
+
+- [wasmgrid](https://github.com/credibil-grid/wasmgrid) - A PoC runtime for WASI WebAssembly components.
 
 ## File Sharing
 
@@ -81,6 +86,7 @@ Projects & resources building with iroh!
 ## Utilities
 
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
+- [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
 
 ## Web3
 
