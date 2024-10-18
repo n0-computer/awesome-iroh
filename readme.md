@@ -93,7 +93,7 @@ Projects & resources building with iroh!
 ### Official
 - 📹 [number 0 YouTube](https://www.youtube.com/@n0computer)
 - 📝 [iroh Blog](https://iroh.computer/blog)
-- 🐦 [@firebase](https://twitter.com/iroh_n0)
+- 🐦 [@iroh_n0](https://twitter.com/iroh_n0)
 
 - :fire: [Iroh Discord](https://iroh.computer/discord) - an open community dedicated to Iroh and its services, where you can to socialize and help other web and app developers from around the world.
 
