@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Iroh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint.yaml/badge.svg)](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint/badge.yaml)
+# Awesome Iroh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![lint](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint.yaml/badge.svg)
 
 <!-- subtitle -->
 
