@@ -13,7 +13,7 @@ Projects & resources building with iroh!
 <!-- image -->
 
 <a href="" target="https://iroh.computer/docs" rel="noopener noreferrer">
-  <img src="./img/banner.png" />
+  <img src="./.img/banner.png" />
 </a>
 
 <!-- description -->
