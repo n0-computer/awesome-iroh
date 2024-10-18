@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- title -->
-<h1 align="center"><a href="https://iroh.computer"><img alt="iroh" src="./.img/iroh_wordmark.svg" width="100" /></a></h1>
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Iroh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint.yaml/badge.svg)](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint.yaml)
+# Awesome Iroh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint.yaml/badge.svg)](https://github.com/n0-computer/awesome-iroh/actions/workflows/lint/badge.yaml)
 
 <!-- subtitle -->
 
@@ -13,9 +12,9 @@ Projects & resources building with iroh!
 
 <!-- image -->
 
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
+<a href="" target="https://iroh.computer/docs" rel="noopener noreferrer">
+  <img src="./img/banner.png" />
+</a>
 
 <!-- description -->
 [iroh](https://iroh.computer) is a library for building on direct connections between devices.
@@ -30,10 +29,11 @@ Projects & resources building with iroh!
 - [Browsers](#browsers)
 - [File Sharing](#file-sharing)
 - [Frameworks](#frameworks)
-- [Games & 3D](#games-&-3d)
+- [Games and 3D](#games-and-3d)
 - [Internet of Things](#internet-of-things)
-- [Utilities](#utilities)
 - [Social Media](#social-media)
+- [Tools for Thought](#tools-for-thought)
+- [Utilities](#utilities)
 - [Web3](#web3)
 - [Follow](#follow)
 
@@ -41,24 +41,24 @@ Projects & resources building with iroh!
 
 ## Archiving
 
-- [Save DWeb Backend](https://github.com/OpenArchive/save-dweb-backend) DWeb Backend for the Save app based on Veilid and Iroh.
+- [Save DWeb Backend](https://github.com/OpenArchive/save-dweb-backend) - DWeb Backend for the Save app based on Veilid and Iroh.
 
 ## Browsers
 
-- [Oku](https://okubrowser.github.io/) A Web browser with an emphasis on local-first data storage.
+- [Oku](https://okubrowser.github.io/) - A Web browser with an emphasis on local-first data storage.
 
 ## File Sharing
 
-- [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices. Part of the ARK framework,
-- [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer
+- [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
+- [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
 
 ## Frameworks
 
-- [Peernet](https://github.com/dvc94ch/peernet) - easy & reliable p2p networking.
+- [Peernet](https://github.com/dvc94ch/peernet) - Easy & reliable p2p networking.
 - [P2Panda v2.0](https://github.com/p2panda/p2panda/tree/v2) - All the things a panda needs.
 
-## Games & 3D
+## Games and 3D
 
 - [Bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games, networked with iroh.
 - [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
@@ -70,20 +70,20 @@ Projects & resources building with iroh!
 
 ## Social Media
 
-- [Delta Chat](https://delta.chat) - a decentralized and secure messenger app.
-- [Weird](https://weird.one/) - a way to be on the web.
+- [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
+- [Weird](https://weird.one/) - A way to be on the web.
 
 ## Tools for Thought
 
-- [Obsiroh](https://github.com/DrHongos/obsiroh) An obsidian sync method with iroh.
+- [Obsiroh](https://github.com/DrHongos/obsiroh) - An obsidian sync method with iroh.
 
 ## Utilities
 
-- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe
+- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 
 ## Web3
 
-- [Thresh](https://github.com/n0-computer/thresh) A Desktop Cardano Wallet
+- [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
 
 <!-- END CONTENT -->
 
