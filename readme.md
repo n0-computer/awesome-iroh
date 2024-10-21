@@ -106,7 +106,7 @@ Projects & resources building with iroh!
 ### Semi-official
 
 -  [@n0iroh](https://mastodon.social/@n0iroh)
--   [matrix room](https://matrix.to/#/!KRxGKHTZtCEENtOPRH:matrix.org?via=matrix.org&via=codelutin.com&via=mauve.moe)
+- [matrix room](https://matrix.to/#/!KRxGKHTZtCEENtOPRH:matrix.org?via=matrix.org&via=codelutin.com&via=mauve.moe)
 
 ## Contributing
 
