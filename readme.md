@@ -63,7 +63,7 @@ Projects & resources building with iroh!
 ## Frameworks
 
 - [Peernet](https://github.com/dvc94ch/peernet) - Easy & reliable p2p networking.
-- [P2Panda v2.0](https://github.com/p2panda/p2panda/tree/v2) - All the things a panda needs.
+- [p2panda](https://github.com/p2panda/p2panda) - Building blocks for peer-to-peer applications.
 
 ## Games and 3D
 
