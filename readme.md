@@ -87,6 +87,7 @@ Projects & resources building with iroh!
 ## Utilities
 
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
+- [malai](https://malai.sh) - Share your dev server (and more) over P2P
 - [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
 
 ## Web3
