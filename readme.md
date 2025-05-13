@@ -105,6 +105,10 @@ Projects & resources building with iroh!
 
 - :fire: [Iroh Discord](https://iroh.computer/discord) - an open community dedicated to Iroh and its services, where you can to socialize and help other web and app developers from around the world.
 
+### Semi-official
+
+-  [@n0iroh](https://mastodon.social/@n0iroh)
+- [matrix room](https://matrix.to/#/!KRxGKHTZtCEENtOPRH:matrix.org?via=matrix.org&via=codelutin.com&via=mauve.moe)
 
 ## Contributing
 
