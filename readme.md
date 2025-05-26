@@ -35,6 +35,7 @@ Projects & resources building with iroh!
 - [Social Media](#social-media)
 - [Tools for Thought](#tools-for-thought)
 - [Utilities](#utilities)
+- [Collaboration](#collaboration)
 - [Web3](#web3)
 - [Follow](#follow)
 
@@ -59,6 +60,7 @@ Projects & resources building with iroh!
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
+- [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
 
 ## Frameworks
 
@@ -89,6 +91,11 @@ Projects & resources building with iroh!
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [malai](https://malai.sh) - Share your dev server (and more) over P2P
 - [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnes an ssh-connection over iroh.
+
+## Collaboration
+
+- [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
 
 ## Web3
 
