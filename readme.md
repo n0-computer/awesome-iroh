@@ -81,6 +81,7 @@ Projects & resources building with iroh!
 
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
 - [Weird](https://weird.one/) - A way to be on the web.
+- [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
 
 ## Tools for Thought
 
