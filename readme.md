@@ -81,6 +81,7 @@ Projects & resources building with iroh!
 
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
 - [Weird](https://weird.one/) - A way to be on the web.
+- [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
 
 ## Tools for Thought
 
@@ -89,7 +90,7 @@ Projects & resources building with iroh!
 ## Utilities
 
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
-- [malai](https://malai.sh) - Share your dev server (and more) over P2P
+- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
 - [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
 - [do-ssh](https://github.com/doEggi/do-ssh) - Tunnes an ssh-connection over iroh.
 
