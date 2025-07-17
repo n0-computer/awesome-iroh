@@ -25,21 +25,32 @@ Projects & resources building with iroh!
 
 ## Contents
 
+- [AI/ML](#aiml)
+- [Audio/Video](#audiovideo)
 - [Archiving](#archiving)
 - [Browsers](#browsers)
+- [Collaboration](#collaboration)
 - [Compute](#compute)
+- [DevTools](#devtools)
 - [File Sharing](#file-sharing)
 - [Frameworks](#frameworks)
 - [Games and 3D](#games-and-3d)
 - [Internet of Things](#internet-of-things)
 - [Social Media](#social-media)
 - [Tools for Thought](#tools-for-thought)
-- [Utilities](#utilities)
-- [Collaboration](#collaboration)
 - [Web3](#web3)
 - [Follow](#follow)
 
 <!-- CONTENT -->
+
+## AI/ML
+
+- [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) - Decentralized Compute Infrastructure for AI.
+- [Psyche](https://github.com/PsycheFoundation/psyche/) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
+
+## Audio/Video
+
+- [Aster](https://github.com/hazelmeow/aster) - Local-first peer-to-peer music streaming prototype.
 
 ## Archiving
 
@@ -49,9 +60,23 @@ Projects & resources building with iroh!
 
 - [Oku](https://okubrowser.github.io/) - A Web browser with an emphasis on local-first data storage.
 
+## Collaboration
+
+- [Ethersync](https://github.com/ethersync/ethersync) - Editor-agnostic, real-time collaborative editing of local text files.
+- [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
+
 ## Compute
 
 - [wasmgrid](https://github.com/credibil-grid/wasmgrid) - A PoC runtime for WASI WebAssembly components.
+
+## DevTools
+
+- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
+- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
+- [kulfi](https://github.com/fastn-stack/kulfi/) - Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet.
+- [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
+- [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 
 ## File Sharing
 
@@ -59,6 +84,7 @@ Projects & resources building with iroh!
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
+- [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
 
@@ -71,11 +97,12 @@ Projects & resources building with iroh!
 
 - [Bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games, networked with iroh.
 - [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
+- [Godot Iroh](https://github.com/tipragot/godot-iroh) - A peer-to-peer multiplayer extension for Godot based on iroh.
 - [USD Renderer](https://github.com/expenses/usd-render) - Universal Scene Description Render, linked with iroh.
 
 ## Internet of Things
 
-- [Pigg](https://github.com/andrewdavidmackenzie/pigg) - Raspberry Pi GPIO GUI. 
+- [Pigg](https://github.com/andrewdavidmackenzie/pigg) - Raspberry Pi GPIO GUI.
 
 ## Social Media
 
@@ -88,20 +115,11 @@ Projects & resources building with iroh!
 
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An obsidian sync method with iroh.
 
-## Utilities
-
-- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
-- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
-- [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
-- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
-- [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
-
-## Collaboration
-
-- [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
-
 ## Web3
 
+- [Analog](https://github.com/Analog-Labs/timechain) - An omnichain network powered by Proof of Time.
+- [Fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint.
+- [Recall](https://github.com/recallnet/ipc) - Recall lets any agent prove, refine, and earn from their intelligence, onchain.
 - [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
 
 <!-- END CONTENT -->
