@@ -82,7 +82,7 @@ Projects & resources building with iroh!
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
 - [Weird](https://weird.one/) - A way to be on the web.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
-- [Tauri + Leptos + TailwindCSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept.
+- [Tauri + Leptos + TailwindCSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 
 ## Tools for Thought
 
