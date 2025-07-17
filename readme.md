@@ -25,8 +25,8 @@ Projects & resources building with iroh!
 
 ## Contents
 
-- [AI/ML](#ai-ml)
-- [Audio & Video](#audio-and-video)
+- [AI/ML](#aiml)
+- [Audio/Video](#audiovideo)
 - [Archiving](#archiving)
 - [Browsers](#browsers)
 - [Collaboration](#collaboration)
@@ -45,9 +45,10 @@ Projects & resources building with iroh!
 
 ## AI/ML
 
+- [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) - Decentralized Compute Infrastructure for AI.
 - [Psyche](https://github.com/PsycheFoundation/psyche/) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
 
-# Audio and Video
+## Audio/Video
 
 - [Aster](https://github.com/hazelmeow/aster) - Local-first peer-to-peer music streaming prototype.
 
@@ -68,13 +69,22 @@ Projects & resources building with iroh!
 
 - [wasmgrid](https://github.com/credibil-grid/wasmgrid) - A PoC runtime for WASI WebAssembly components.
 
+## DevTools
+
+- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
+- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
+- [kulfi](https://github.com/fastn-stack/kulfi/) - Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet.
+- [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
+- [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
+
 ## File Sharing
 
 - [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
-- [Strada](https://strada.tech) Beatiful file transfer & management with no cloud costs.
+- [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
 
@@ -104,15 +114,6 @@ Projects & resources building with iroh!
 ## Tools for Thought
 
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An obsidian sync method with iroh.
-
-## DevTools
-
-- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
-- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
-- [kulfi](https://github.com/fastn-stack/kulfi/) - Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet.
-- [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
-- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
-- [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 
 ## Web3
 
