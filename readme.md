@@ -97,6 +97,7 @@ Projects & resources building with iroh!
 ## Libraries and protocols
 
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
+- [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
 
 ## Games and 3D
 
