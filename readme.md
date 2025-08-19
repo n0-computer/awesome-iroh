@@ -34,6 +34,7 @@ Projects & resources building with iroh!
 - [DevTools](#devtools)
 - [File Sharing](#file-sharing)
 - [Frameworks](#frameworks)
+- [Libraries and protocols](#libraries-and-protocols)
 - [Games and 3D](#games-and-3d)
 - [Internet of Things](#internet-of-things)
 - [Social Media](#social-media)
@@ -92,6 +93,10 @@ Projects & resources building with iroh!
 
 - [Peernet](https://github.com/dvc94ch/peernet) - Easy & reliable p2p networking.
 - [p2panda](https://github.com/p2panda/p2panda) - Building blocks for peer-to-peer applications.
+
+## Libraries and protocols
+
+- [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
 
 ## Games and 3D
 
