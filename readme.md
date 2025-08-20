@@ -98,6 +98,8 @@ Projects & resources building with iroh!
 
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
 - [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
+- [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
+- [imsg](https://github.com/n0-computer/imsg) 🧪 - A base protocol providing streams of messages.
 
 ## Games and 3D
 
