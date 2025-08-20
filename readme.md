@@ -132,8 +132,6 @@ Projects & resources building with iroh!
 
 <!-- END CONTENT -->
 
-## Legend
-
 🧪 - experimental libraries
 
 ## Follow
