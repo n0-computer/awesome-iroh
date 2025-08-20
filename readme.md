@@ -42,10 +42,6 @@ Projects & resources building with iroh!
 - [Web3](#web3)
 - [Follow](#follow)
 
-## Legend
-
-🧪 - experimental libraries
-
 <!-- CONTENT -->
 
 ## AI/ML
@@ -135,6 +131,10 @@ Projects & resources building with iroh!
 - [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
 
 <!-- END CONTENT -->
+
+## Legend
+
+🧪 - experimental libraries
 
 ## Follow
 
