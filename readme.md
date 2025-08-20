@@ -42,6 +42,10 @@ Projects & resources building with iroh!
 - [Web3](#web3)
 - [Follow](#follow)
 
+## Legend
+
+🧪 - experimental libraries
+
 <!-- CONTENT -->
 
 ## AI/ML
