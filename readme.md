@@ -48,6 +48,7 @@ Projects & resources building with iroh!
 
 - [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) - Decentralized Compute Infrastructure for AI.
 - [Psyche](https://github.com/PsycheFoundation/psyche/) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
+- [Tandemn](https://github.com/Tandemn-Labs/tensor-iroh) - Iroh for tensors, used for inference over heterogeneous GPUs.
 
 ## Audio/Video
 
