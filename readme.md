@@ -119,6 +119,7 @@ Projects & resources building with iroh!
 - [Weird](https://weird.one/) - A way to be on the web.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
 - [Tauri + Leptos + TailwindCSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
+- [Dash Chat](https://darksoil.studio/dashchat) - Secure Chat for Internet Shutdowns
 
 ## Tools for Thought
 
