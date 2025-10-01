@@ -86,6 +86,7 @@ Projects & resources building with iroh!
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
+- [Sendme-gui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
 - [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
