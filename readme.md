@@ -52,7 +52,7 @@ Projects & resources building with iroh!
 
 ## Audio/Video
 
-- [Aster](https://github.com/hazelmeow/aster) - Local-first peer-to-peer music streaming prototype.
+- [Aster](https://github.com/fractalbeauty/aster) - Local-first peer-to-peer music streaming prototype.
 
 ## Archiving
 
