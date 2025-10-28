@@ -79,6 +79,7 @@ Projects & resources building with iroh!
 - [Stash](https://github.com/gertjanvanzwieten/stash) - A pickle alternative that stores objects in a central database.
 - [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
+- [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
 
 ## File Sharing
 
