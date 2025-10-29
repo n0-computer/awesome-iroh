@@ -89,6 +89,7 @@ Projects & resources building with iroh!
 - [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
 - [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
+- [iroh_send](https://github.com/thiswillbeyourgithub/iroh-send) - Send files or directories by sharing an env variable (python).
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
 
 ## Frameworks
