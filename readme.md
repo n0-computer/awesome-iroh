@@ -64,7 +64,7 @@ Projects & resources building with iroh!
 
 ## Collaboration
 
-- [Ethersync](https://github.com/ethersync/ethersync) - Editor-agnostic, real-time collaborative editing of local text files.
+- [Teamtype](https://github.com/teamtype/teamtype) - Editor-agnostic, real-time collaborative editing of local text files.
 - [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
 
 ## Compute
