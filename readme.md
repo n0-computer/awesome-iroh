@@ -73,24 +73,24 @@ Projects & resources building with iroh!
 
 ## DevTools
 
-- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
-- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
-- [kulfi](https://github.com/fastn-stack/kulfi/) - Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet.
-- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
-- [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
+- [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
+- [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
+- [kulfi](https://github.com/fastn-stack/kulfi/) - Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet.
+- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
 
 ## File Sharing
 
-- [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
-- [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
-- [iroh_send](https://github.com/thiswillbeyourgithub/iroh-send) - Send files or directories by sharing an env variable (python).
-- [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
-- [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
-- [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
-- [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
+- [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
+- [iroh_send](https://github.com/thiswillbeyourgithub/iroh-send) - Send files or directories by sharing an env variable (python).
+- [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
+- [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
+- [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
+- [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
+- [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 
 ## Frameworks
 
@@ -99,18 +99,18 @@ Projects & resources building with iroh!
 
 ## Libraries and protocols
 
-- [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
 - [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
-- [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
 - [imsg](https://github.com/n0-computer/imsg) 🧪 - A base protocol providing streams of messages.
+- [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
+- [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
 
 ## Games and 3D
 
 - [Bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games, networked with iroh.
 - [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
 - [Godot Iroh](https://github.com/tipragot/godot-iroh) - A peer-to-peer multiplayer extension for Godot based on iroh.
-- [USD Renderer](https://github.com/expenses/usd-render) - Universal Scene Description Render, linked with iroh.
 - [iroh-lan](https://github.com/rustonbsd/iroh-lan) - Have a lan party with iroh (iroh-lan = hamachi - account - install).
+- [USD Renderer](https://github.com/expenses/usd-render) - Universal Scene Description Render, linked with iroh.
 
 ## Internet of Things
 
@@ -118,11 +118,11 @@ Projects & resources building with iroh!
 
 ## Social Media
 
-- [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
-- [Weird](https://weird.one/) - A way to be on the web.
-- [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
-- [Tauri + Leptos + TailwindCSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 - [Dash Chat](https://darksoil.studio/dashchat) - Secure Chat for Internet Shutdowns
+- [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
+- [Tauri + Leptos + TailwindCSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
+- [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
+- [Weird](https://weird.one/) - A way to be on the web.
 
 ## Tools for Thought
 
