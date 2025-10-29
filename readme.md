@@ -77,7 +77,6 @@ Projects & resources building with iroh!
 - [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
-- [kulfi](https://github.com/fastn-stack/kulfi/) - Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet.
 - [malai](https://malai.sh) - Share your dev server (and more) over P2P.
 
 ## File Sharing
