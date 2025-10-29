@@ -117,21 +117,21 @@ Projects & resources building with iroh!
 
 ## Social Media
 
-- [Dash Chat](https://darksoil.studio/dashchat) - Secure Chat for Internet Shutdowns
+- [Dash Chat](https://darksoil.studio/dashchat) - Secure Chat for Internet Shutdowns.
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
-- [Tauri + Leptos + TailwindCSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
+- [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
 - [Weird](https://weird.one/) - A way to be on the web.
 
 ## Tools for Thought
 
-- [Obsiroh](https://github.com/DrHongos/obsiroh) - An obsidian sync method with iroh.
+- [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
 
 ## Web3
 
 - [Analog](https://github.com/Analog-Labs/timechain) - An omnichain network powered by Proof of Time.
 - [Fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint.
-- [Recall](https://github.com/recallnet/ipc) - Recall lets any agent prove, refine, and earn from their intelligence, onchain.
+- [Recall](https://github.com/recallnet/ipc) - Lets any agent prove, refine, and earn from their intelligence, onchain.
 - [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
 
 <!-- END CONTENT -->
