@@ -9,7 +9,7 @@ ALWAYS create a new branch with your proposed changes. Thank you!
 ## Adding an new Item
 
 - Try to fit your item into an existing sections. [Open a suggestion](https://github.com/n0-computer/awesome-iroh/issues/new) to start as discussion about any new sections.
-- Add a new item to the bottom of the list in a section.
+- Insert your new item to the section list, respecting alphabetical sorting.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.
 - The item must follow this format:
