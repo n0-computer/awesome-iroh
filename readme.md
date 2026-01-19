@@ -126,6 +126,7 @@ Projects & resources building with iroh!
 
 ## Tools for Thought
 
+- [biter](https://github.com/LukeDSchenk/biter) - Synchronize device clipboards via iroh.
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
 
 ## Web3
