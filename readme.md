@@ -29,7 +29,7 @@ Projects & resources building with iroh!
 - [Audio/Video](#audiovideo)
 - [Archiving](#archiving)
 - [Browsers](#browsers)
-- [Collaboration](#collaboration)
+- [Collaboration and Productivity](#collaboration-and-productivity)
 - [Compute](#compute)
 - [DevTools](#devtools)
 - [File Sharing](#file-sharing)
@@ -62,8 +62,9 @@ Projects & resources building with iroh!
 
 - [Oku](https://okubrowser.github.io/) - A Web browser with an emphasis on local-first data storage.
 
-## Collaboration
+## Collaboration and Productivity
 
+- [biter](https://github.com/LukeDSchenk/biter) - Synchronize device clipboards via iroh.
 - [Teamtype](https://github.com/teamtype/teamtype) - Editor-agnostic, real-time collaborative editing of local text files.
 - [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
 
