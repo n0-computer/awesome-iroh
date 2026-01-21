@@ -135,6 +135,7 @@ Projects & resources building with iroh!
 - [Fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint.
 - [Recall](https://github.com/recallnet/ipc) - Lets any agent prove, refine, and earn from their intelligence, onchain.
 - [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
+- [Cyberfly IO](https://node.cyberfly.io/) - A decentralised data storage platform for web3
 
 <!-- END CONTENT -->
 
