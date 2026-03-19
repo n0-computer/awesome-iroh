@@ -70,7 +70,7 @@ Projects & resources building with iroh!
 
 ## Compute
 
-- [wasmgrid](https://github.com/credibil-grid/wasmgrid) - A PoC runtime for WASI WebAssembly components.
+- [omnia](https://github.com/augentic/omnia) - A PoC runtime for WASI WebAssembly components.
 
 ## DevTools
 
