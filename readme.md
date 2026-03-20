@@ -120,7 +120,7 @@ Projects & resources building with iroh!
 
 ## Social Media
 
-- [Dash Chat](https://darksoil.studio/dashchat) - Secure Chat for Internet Shutdowns.
+- [Dash Chat](https://darksoil.studio) - Secure Chat for Internet Shutdowns.
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
 - [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
