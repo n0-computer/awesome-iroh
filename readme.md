@@ -30,7 +30,6 @@ Projects & resources building with iroh!
 - [Archiving](#archiving)
 - [Browsers](#browsers)
 - [Collaboration and Productivity](#collaboration-and-productivity)
-- [Compute](#compute)
 - [DevTools](#devtools)
 - [File Sharing](#file-sharing)
 - [Frameworks](#frameworks)
@@ -67,10 +66,6 @@ Projects & resources building with iroh!
 - [biter](https://github.com/LukeDSchenk/biter) - Synchronize device clipboards via iroh.
 - [Teamtype](https://github.com/teamtype/teamtype) - Editor-agnostic, real-time collaborative editing of local text files.
 - [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
-
-## Compute
-
-- [omnia](https://github.com/augentic/omnia) - A PoC runtime for WASI WebAssembly components.
 
 ## DevTools
 
