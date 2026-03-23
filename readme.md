@@ -81,6 +81,7 @@ Projects & resources building with iroh!
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 - [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
 - [Alt-sendme](https://github.com/tonyantony300/alt-sendme) - A cross-platform desktop application for file sharing, built with Tauri.
+- [DataBeam](https://github.com/vinay-winai/DataBeam) - File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.
 - [iroh_send](https://github.com/thiswillbeyourgithub/iroh-send) - Send files or directories by sharing an env variable (python).
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
