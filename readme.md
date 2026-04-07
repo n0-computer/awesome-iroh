@@ -71,6 +71,7 @@ Projects & resources building with iroh!
 
 - [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
 - [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
+- [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
