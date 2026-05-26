@@ -19,7 +19,7 @@ jobs:
           with:
             fetch-depth: 0
         - name: asdf_install
-          uses: asdf-vm/actions/install@v1
+          uses: asdf-vm/actions/install@v3
         - name: "linting: ${{ matrix.files }}"
           run: npx -y awesome-lint ${{ matrix.files }}
     awesome-bot:
