@@ -75,7 +75,6 @@ Projects & resources building with iroh!
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
-- [malai](https://malai.sh) - Share your dev server (and more) over P2P.
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 
 ## File Sharing
@@ -102,6 +101,7 @@ Projects & resources building with iroh!
 - [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
 - [imsg](https://github.com/n0-computer/imsg) 🧪 - A base protocol providing streams of messages.
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
+- [iroh-rings](https://github.com/rikettsie/iroh-rings) - A relationship-based access control protocol for resources over iroh.
 - [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
 
 ## Games and 3D
