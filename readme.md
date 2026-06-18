@@ -52,6 +52,7 @@ Projects & resources building with iroh!
 ## Audio/Video
 
 - [Aster](https://github.com/fractalbeauty/aster) - Local-first peer-to-peer music streaming prototype.
+- [Telepathy](https://github.com/chanderlud/telepathy) - Cross-platform real time communication with Iroh networking.
 
 ## Archiving
 
