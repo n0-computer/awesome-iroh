@@ -89,6 +89,8 @@ Projects & resources building with iroh!
 - [iroh_send](https://github.com/thiswillbeyourgithub/iroh-send) - Send files or directories by sharing an env variable (python).
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
+- [ringdrop](https://github.com/rikettsie/ringdrop) - Frugal, daemonized P2P file transfer with ring-based access control, built on iroh and bao protocols.
+- [ringdrop-gui](https://github.com/rikettsie/ringdrop-gui) - Desktop GUI for ringdrop, exposing the full CLI as a native app.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
 - [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
