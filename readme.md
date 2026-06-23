@@ -131,6 +131,7 @@ Projects & resources building with iroh!
 
 ## Tools for Thought
 
+- [Kith](https://github.com/muhamadjawdatsalemalakoum/kith) - Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
 
 ## Web3
