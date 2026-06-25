@@ -78,6 +78,7 @@ Projects & resources building with iroh!
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
+- [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
 
 ## File Sharing
 
