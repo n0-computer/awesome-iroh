@@ -71,6 +71,7 @@ Projects & resources building with iroh!
 
 ## DevTools
 
+- [Codux](https://github.com/duxweb/codux) - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
 - [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
 - [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
