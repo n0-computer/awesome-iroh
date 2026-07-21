@@ -76,6 +76,7 @@ Projects & resources building with iroh!
 - [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
+- [Edky](https://github.com/artob/edky) - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
