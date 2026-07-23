@@ -82,6 +82,7 @@ Projects & resources building with iroh!
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 - [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
+- [locho](https://github.com/trchopan/locho) - local + echo = locho: Access a private service on another machine as if it were local.
 
 ## File Sharing
 
