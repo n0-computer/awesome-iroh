@@ -100,6 +100,7 @@ Projects & resources building with iroh!
 - [ringdrop](https://github.com/rikettsie/ringdrop) - Frugal, daemonized P2P file transfer with ring-based access control, built on iroh and bao protocols.
 - [ringdrop-gui](https://github.com/rikettsie/ringdrop-gui) - Desktop GUI for ringdrop, exposing the full CLI as a native app.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
+- [sendblob](https://github.com/hboisgibault/sendblob) - Share files from the browser ([sendblob.app](https://sendblob.app)) via iroh-blobs relays, interoperable with any iroh node.
 - [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
 - [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
