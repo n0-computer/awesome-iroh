@@ -86,6 +86,7 @@ Projects & resources building with iroh!
 - [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 - [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
+- [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
 
 ## File Sharing
 
