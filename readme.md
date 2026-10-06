@@ -119,6 +119,7 @@ Projects & resources building with iroh!
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
 - [iroh-rings](https://github.com/rikettsie/iroh-rings) - A relationship-based access control protocol for resources over iroh.
 - [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
+- [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
 
 ## Games and 3D
 
