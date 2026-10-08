@@ -112,8 +112,18 @@ Projects & resources building with iroh!
 
 ## Frameworks
 
-- [Peernet](https://github.com/dvc94ch/peernet) - Easy & reliable p2p networking.
+- [Arachne Core](https://github.com/arachne-systems/arachne-core) - Rust workspace core combining Iroh connectivity, MLS membership, and scoped synchronization.
+- [Fofoca](https://github.com/fofoca-network/fofoca) - Rust gossip and CRDT engine with Iroh, WebRTC, and multihop transport implementations.
+- [Ingot Cluster](https://github.com/niranjanaryan/ingot_cluster) - Elixir clustering with Iroh peer-to-peer QUIC and Zenoh transports.
+- [Iroh Android Native](https://github.com/1337farm/iroh-android-native) - Android application and JNI library for Iroh blob transfer and file sharing.
+- [Iroh FFI](https://github.com/n0-computer/iroh-ffi) - Bindings exposing Iroh networking to Kotlin, Swift, Python, and Node.js.
+- [IrohNet samples](https://github.com/IAFahim/irohnet-samples) - C# and .NET samples for N0.IrohNet.Safe covering ticket-based connections, streams, and datagrams.
 - [p2panda](https://github.com/p2panda/p2panda) - Building blocks for peer-to-peer applications.
+- [peerline-host](https://github.com/h-bar/peerline-host) - Service-hosting and admission layer for peerline, with Iroh and other transport mounts.
+- [Peernet](https://github.com/dvc94ch/peernet) - Easy & reliable p2p networking.
+- [Protocolo](https://github.com/gsemyong/protocolo) - Rust protocol and runtime framework with typed interfaces and an Iroh transport adapter.
+- [UniClipboard Engine](https://github.com/UniClipboard/Engine) - Shared Rust engine for UniClipboard with Iroh networking, blob transfer, device membership, and FFI bindings.
+- [Zeiroh](https://github.com/niranjanaryan/zeiroh) - Phoenix FLAME overlay using Iroh and Zenoh for peer connectivity and worker orchestration.
 
 ## Libraries and protocols
 
