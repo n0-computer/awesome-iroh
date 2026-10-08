@@ -142,10 +142,17 @@ Projects & resources building with iroh!
 - [Bru](https://github.com/sverrejb/bru) - Read and send your phone's SMS, and sync clipboard text, from your desktop.
 - [Dash Chat](https://darksoil.studio) - Secure Chat for Internet Shutdowns.
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
+- [Doot](https://github.com/Brajesh3/doot) - Desktop and Android messenger with Iroh Gossip and blob transfer.
+- [freeq](https://github.com/freeq-irc/freeq) - IRC-compatible chat system with an Iroh connection transport.
+- [HoloChat](https://github.com/dkl070418/HoloChat) - Chat application with a Python Iroh endpoint and web interface.
+- [n0-snap](https://github.com/okdistribute/n0-snap) - Ephemeral media and chat prototype using AT Protocol discovery and Iroh transport.
+- [Proscenium](https://github.com/iohzrd/proscenium) - Peer-to-peer social and messaging app using Iroh Gossip and blob transfer.
+- [Rostra](https://radicle.network/nodes/radicle.dpc.pw/rad%3AzzK566qFsZnXomX2juRjxj9K1LuF) - A p2p (or rather f2f) social network.
 - [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
-- [Rostra](https://radicle.network/nodes/radicle.dpc.pw/rad%3AzzK566qFsZnXomX2juRjxj9K1LuF) - A p2p (or rather f2f) social network.
+- [Totem](https://github.com/aurnik/totem) - Peer-to-peer live-chat prototype with Iroh networking.
 - [Weird](https://weird.one/) - A way to be on the web.
+- [XivLantern](https://github.com/Spaceghost/xivlantern-dalamud) - Dalamud plugin for peer-to-peer chat, presence, and channels inside Final Fantasy XIV using Iroh.
 
 ## Tools for Thought
 
