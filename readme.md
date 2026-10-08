@@ -117,9 +117,10 @@ Projects & resources building with iroh!
 - [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
 - [imsg](https://github.com/n0-computer/imsg) 🧪 - A base protocol providing streams of messages.
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
+- [iroh-http](https://github.com/changesbyjames/iroh-http) - An HTTP-like request/response protocol over Iroh QUIC streams, with Rust, Node.js, and browser/WebAssembly adapters.
+- [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
 - [iroh-rings](https://github.com/rikettsie/iroh-rings) - A relationship-based access control protocol for resources over iroh.
 - [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
-- [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
 
 ## Games and 3D
 
