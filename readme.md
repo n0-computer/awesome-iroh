@@ -76,20 +76,49 @@ Projects & resources building with iroh!
 
 ## DevTools
 
+- [AfuDesk](https://github.com/pirncedark/afudesk) - Remote-desktop app with a Rust Iroh transport and Flutter clients.
+- [ajj](https://github.com/amber-store/ajj) - Jujutsu version control with Amber objects, distributed bookmarks, and an Iroh storage transport.
 - [Codux](https://github.com/duxweb/codux) - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
+- [Connect for InvenTree](https://github.com/fh1ncodeer/connect-for-inventree) - Unofficial InvenTree client and gateway using Iroh for private access and device approval.
 - [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
-- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
+- [Datum Compute demos](https://github.com/drewr/datum-compute) - Transport demonstrations including an Iroh tunnel between a local TUN interface and a Datum VPC.
+- [Datum Connect Daemon](https://github.com/datum-labs/datum-connect-daemon) - Headless daemon for Datum Cloud and Iroh peer tunnels with a local control API.
+- [DevShare](https://github.com/glitchr-studio/devshare) - Share local development services over Iroh through invitation-based desktop and mobile clients.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
+- [DuckDB Grainlift](https://github.com/Query-farm/duckdb-grainlift) - DuckDB and DuckDB-WASM extension for querying Grainlift services over HTTP or Iroh.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [Edky](https://github.com/artob/edky) - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
+- [FarSail](https://github.com/wanghao9103/farsail) - Windows remote-desktop app with an Iroh peer transport and self-hosted relay support.
+- [flextunnel-ios](https://github.com/flexaccessdev/flextunnel-ios) - Browser and port-forwarding client for iOS using the flextunnel SOCKS5-over-Iroh proxy.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
-- [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
-- [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
-- [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
-- [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
-- [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
+- [iroh-tests](https://github.com/decdn/iroh-tests) - Regression and reproduction tests for Iroh, Iroh Blobs, and related crates.
+- [iroh-tunnel](https://github.com/chethan62/iroh-tunnel) - Node.js TCP and UDP tunnel using Iroh for QUIC connectivity and relay fallback.
 - [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
+- [leGix](https://github.com/aicumene/legix) - Distributed Git library with signed history and member-scoped device synchronization over Iroh.
+- [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
+- [messnet](https://github.com/brettviren/messnet) - Multi-host event notification system with optional Iroh transport and per-network link policy.
+- [OCID](https://github.com/safonas/ocid) - Peer-to-peer distribution of OCI container images using Iroh.
+- [P2P Share relay](https://github.com/lamziiii/P2P-Sender-relay) - Self-hosted Iroh relay and signed endpoint-address directory for the P2P Share app.
+- [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
+- [Portal](https://github.com/lab47/portal) - Remote shell access over Go Iroh with SSH-certificate user authorization.
+- [Portty](https://github.com/corvuxmindware/portty) - Phone-to-desktop terminal-access prototype with an Iroh transport.
+- [Pravera](https://github.com/n1ssyyy/Pravera) - Rust peer-to-peer remote-desktop app using Iroh for path selection and transport.
+- [Quackhole](https://github.com/smithclay/quackhole) - Peer-to-peer DuckDB access over Iroh with native and WebAssembly clients.
+- [Quix](https://github.com/quixvpn/quix) - Peer-to-peer mesh VPN using Iroh QUIC.
+- [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
+- [Relay Warden](https://github.com/sudosylabs/relay-warden) - Self-hosted Iroh relay with access control, rate limits, and a configurable bandwidth budget.
+- [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
+- [rscross](https://github.com/david88558855/rscross) - Private-service tunneling platform combining Iroh peer connections with FerroTunnel relays.
+- [Rusty](https://github.com/bobishh/rusty) - Native MetaMesh lighthouse node using Iroh for participant connectivity and replication.
+- [Scrin](https://github.com/scrin-app/scrin) - Remote-desktop prototype with an Iroh transport.
+- [tunnel-rs](https://github.com/flexaccessdev/tunnel-rs) - Cross-platform TCP and UDP port forwarding over Iroh peer connections.
+- [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
+- [Wirehop](https://github.com/Keikai-Inc/wirehop) - Private-networking and remote-access CLI with Iroh transport and peer identity.
+- [Wiresneak](https://github.com/GrizzlT/wiresneak) - IP tunnel over Iroh with direct connections and relay fallback.
+- [Wispers Access](https://github.com/s-te-ch/wispers-access) - Expose local web apps to invited peers through an Iroh tunnel.
+- [xk6-iroh](https://github.com/tmc/xk6-iroh) - Extension for k6 to test Iroh streams, Gossip, and blob transfers.
 
 ## File Sharing
 
