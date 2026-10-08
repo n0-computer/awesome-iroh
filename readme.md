@@ -79,6 +79,7 @@ Projects & resources building with iroh!
 - [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [Edky](https://github.com/artob/edky) - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
+- [Grainlift](https://github.com/Query-farm/grainlift) - Database gateway exposing Arrow Database Connectivity (ADBC) over iroh using vgi-rpc, supporting SQL queries, transactions, and Arrow result streaming.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
@@ -87,6 +88,7 @@ Projects & resources building with iroh!
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 - [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
 - [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
+- [VGI](https://query.farm/vgi/) - DuckDB extension for attaching remote catalogs and calling worker functions over iroh using vgi-rpc and Apache Arrow.
 
 ## File Sharing
 
@@ -120,6 +122,7 @@ Projects & resources building with iroh!
 - [iroh-rings](https://github.com/rikettsie/iroh-rings) - A relationship-based access control protocol for resources over iroh.
 - [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
 - [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
+- [vgi-rpc](https://vgi-rpc.query.farm/) - Apache Arrow IPC RPC framework with cross-language unary and streaming calls over authenticated iroh connections, including HTTP over iroh.
 
 ## Games and 3D
 
