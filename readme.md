@@ -52,9 +52,17 @@ Projects & resources building with iroh!
 ## Audio/Video
 
 - [Aster](https://github.com/fractalbeauty/aster) - Local-first peer-to-peer music streaming prototype.
+- [audia](https://github.com/liquidiert/audia) - Collaborative playlist builder with Iroh Gossip synchronization in WebAssembly.
+- [AudioBridge](https://github.com/Lyten02/AudioBridge) - Audio and microphone bridge that carries Opus over Iroh QUIC datagrams.
+- [iroh-live](https://github.com/n0-computer/iroh-live) - Media-livestreaming prototype combining Iroh, MoQ, and Gossip rooms.
+- [iroh-mic](https://github.com/TheNuclearNexus/iroh-mic) - Browser microphone audio streaming over Iroh using Rust and WebAssembly.
+- [Nova](https://github.com/misobarisic/nova) - Media catalog app with optional peer-to-peer device sync over Iroh.
+- [Openstream](https://github.com/gtkacz/openstream) - Native peer-to-peer screen-sharing app using Iroh and Gossip rooms.
 - [OpusVoice](https://github.com/IAFahim/OpusVoice) - Android and browser Opus voice streaming with Pinhole sessions and native Iroh address and relay interoperability.
 - [OpusVoice.Receiver](https://github.com/YouAnd-I/OpusVoice.Receiver) - A C# RTP/Opus test sink that captures streams over UDP, WebSocket, and Pinhole/Iroh routes.
 - [Telepathy](https://github.com/chanderlud/telepathy) - Cross-platform real time communication with Iroh networking.
+- [tincan-cli](https://github.com/bilalyazicioglu/tincan-cli) - Terminal voice and text chat over Iroh QUIC.
+- [ZuTalk](https://github.com/4seas-community/ZuTalk) - Voice-note and transcription app with an Iroh device-sync engine.
 
 ## Archiving
 
