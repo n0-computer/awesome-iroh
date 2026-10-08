@@ -149,10 +149,15 @@ Projects & resources building with iroh!
 
 ## Tools for Thought
 
+- [Acerola Reader](https://github.com/vinicius-gpl/acerola-reader) - Desktop and Android comic reader with Iroh-based synchronization and content transfer.
 - [Aurora](https://github.com/Lizeyun8501/Aurora) - A personal knowledge-management app for notes, tasks, and organizing ideas.
+- [Cartero](https://github.com/dracarys18/cartero) - Content aggregator with an Iroh device-sync implementation.
+- [Holzi](https://github.com/haexmas/holzi) - Personal-agent app combining an Iroh peer, Nostr relay, and MCP server with local persistence.
 - [Iroh Retro](https://codeberg.org/cemoktra/iroh-retro) - Serverless, no-account, retrospective for development teams.
 - [Kith](https://github.com/muhamadjawdatsalemalakoum/kith) - Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
+- [Vellum](https://github.com/andymitch/vellum) - Local-first Markdown notes app with peer-to-peer synchronization over Iroh Docs.
+- [Yaiba](https://github.com/yukimemi/yaiba) - Vim-style task and Gantt planner with an embedded web UI and Iroh peer synchronization.
 
 ## Web3
 
