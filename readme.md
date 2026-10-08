@@ -93,21 +93,28 @@ Projects & resources building with iroh!
 
 ## File Sharing
 
+- [ahole](https://github.com/ast/ahole) - CLI for sending files and directories over Iroh Blobs with resumable transfers.
+- [Alt-sendme](https://github.com/tonyantony300/alt-sendme) - A cross-platform desktop application for file sharing, built with Tauri.
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 - [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
-- [Alt-sendme](https://github.com/tonyantony300/alt-sendme) - A cross-platform desktop application for file sharing, built with Tauri.
 - [DataBeam](https://github.com/vinay-winai/DataBeam) - File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.
+- [deCDN](https://github.com/decdn/decdn) - Content-addressed CDN whose nodes cache and serve blobs over Iroh.
 - [Dropwire](https://github.com/muhamadjawdatsalemalakoum/dropwire) - Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.
 - [fsend](https://github.com/maxomatic458/fsend) - Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.
+- [GhostDrop](https://github.com/Firefares2005/ghostdrop) - Peer-to-peer file-transfer CLI using Iroh and Iroh Blobs.
+- [Immich Shared Albums](https://github.com/lukeet332/immich-shared-albums) - Federated photo and video albums between Immich instances using Iroh peer transfers.
+- [iroh-share](https://github.com/n0-computer/iroh-share) - Blob-sharing CLI and clients combining Iroh Blobs with Mainline DHT discovery.
 - [iroh_send](https://github.com/thiswillbeyourgithub/iroh-send) - Send files or directories by sharing an env variable (python).
 - [lis](https://github.com/riffcc/lis) - Life is short, but data should live forever.
+- [P2P Share](https://github.com/lamziiii/P2P-Sender) - Desktop file sharing and chat app with Iroh connections and shared group file repositories.
+- [qrtx](https://github.com/magik6k/qrtx) - File transfer with browser-assisted QR pairing and Iroh peer connections.
 - [Quicksend](https://github.com/israelyago/QuickSend) - Send files peer to peer.
 - [ringdrop](https://github.com/rikettsie/ringdrop) - Frugal, daemonized P2P file transfer with ring-based access control, built on iroh and bao protocols.
 - [ringdrop-gui](https://github.com/rikettsie/ringdrop-gui) - Desktop GUI for ringdrop, exposing the full CLI as a native app.
 - [Rust Patcher](https://github.com/rustonbsd/rustpatcher) - Secure Decentralized Software updates.
 - [sendblob](https://github.com/hboisgibault/sendblob) - Share files from the browser ([sendblob.app](https://sendblob.app)) via iroh-blobs relays, interoperable with any iroh node.
-- [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
 - [Sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh.
+- [Sendme-egui](https://github.com/zignig/sendme-egui) - Egui interface for sendme.
 - [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 
 ## Frameworks
