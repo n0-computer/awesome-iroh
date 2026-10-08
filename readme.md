@@ -56,6 +56,7 @@ Projects & resources building with iroh!
 
 ## Archiving
 
+- [Backup Buddies](https://github.com/mspencerl87/backup-buddies-client) - Peer-to-peer file backups with local encryption, delta scans, and retained restore versions.
 - [omry](https://codeberg.org/omry/omry) - Save web pages you don't want to lose to a locally-hostable, searchable archive.
 - [Save DWeb Backend](https://github.com/OpenArchive/save-dweb-backend) - DWeb Backend for the Save app based on Veilid and Iroh.
 
