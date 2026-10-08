@@ -68,10 +68,17 @@ Projects & resources building with iroh!
 
 ## Collaboration and Productivity
 
+- [acidtrip](https://github.com/jondot/acidtrip) - Terminal ANSI art editor with shared editing sessions over Iroh.
+- [Arachne ATAK](https://github.com/arachne-systems/arachne-atak) - ATAK plugin for peer-to-peer workspaces over the Arachne Rust core and Iroh.
 - [biter](https://github.com/LukeDSchenk/biter) - Synchronize device clipboards via iroh.
+- [Diaswarm](https://github.com/alex-poor/diaswarm) - Data-sharing prototype for insulin-pump loop data, with p2panda and Iroh transport experiments.
+- [echo](https://github.com/sergey-melnychuk/echo) - Folder-sync proof of concept using Iroh Docs, Iroh Blobs, Gossip, and Automerge.
+- [Legato](https://github.com/tvolk131/legato) - Keyboard, mouse, clipboard, and file sharing between computers over Iroh.
 - [linXiv](https://github.com/linxiv-dev/linXiv) - Local-first academic paper manager with p2p sharing enabled using iroh.
 - [p2pmux](https://github.com/pelazas/p2pmux) - Terminal multiplexer where every pane is a PTY on its owner's own machine.
 - [Teamtype](https://github.com/teamtype/teamtype) - Editor-agnostic, real-time collaborative editing of local text files.
+- [UniClipboard](https://github.com/UniClipboard/UniClipboard) - Cross-device clipboard application using a shared Rust engine and Iroh peer synchronization.
+- [Vaulti](https://github.com/n3amil/vaulti) - Password-manager prototype with Iroh device pairing and vault synchronization.
 - [Zeco](https://github.com/julianbuettner/zeco) - Share zellij sessions via the internet (using iroh).
 
 ## DevTools
