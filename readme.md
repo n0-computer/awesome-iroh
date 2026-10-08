@@ -127,10 +127,15 @@ Projects & resources building with iroh!
 
 ## Games and 3D
 
+- [bevy_iroh](https://github.com/rvdende/bevy_iroh) - Bevy plugin for peer-to-peer entity replication, rooms, presence, and messages over Iroh.
+- [bevy_replicon_iroh](https://github.com/mitchty/bevy_replicon_iroh) - Iroh transport backend for Bevy Replicon replication.
+- [Bloop](https://github.com/BloopPet/bloop) - Desktop pet app with Iroh connections for peer visits between Macs.
 - [Bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games, networked with iroh.
 - [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
 - [Godot Iroh](https://github.com/tipragot/godot-iroh) - A peer-to-peer multiplayer extension for Godot based on iroh.
 - [iroh-lan](https://github.com/rustonbsd/iroh-lan) - Have a lan party with iroh (iroh-lan = hamachi - account - install).
+- [Neoz Enderlink](https://github.com/neozmmv/neoz-enderlink) - Minecraft Fabric mod that connects multiplayer peers using Iroh.
+- [tui-tui](https://github.com/mr-nitesh-poudel/tui-tui) - Peer-to-peer terminal board games using Iroh for sessions and lobbies.
 - [USD Renderer](https://github.com/expenses/usd-render) - Universal Scene Description Render, linked with iroh.
 
 ## Internet of Things
