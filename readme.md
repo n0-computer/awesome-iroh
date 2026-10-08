@@ -58,9 +58,12 @@ Projects & resources building with iroh!
 
 ## Archiving
 
+- [AlvaOS](https://github.com/SnowTimSwiss/AlvaOS) - NAS operating system with Iroh Link connectivity for remote Hub access and buddy backups.
 - [Backup Buddies](https://github.com/mspencerl87/backup-buddies-client) - Peer-to-peer file backups with local encryption, delta scans, and retained restore versions.
+- [DStore](https://github.com/amber-store/dstore) - Distributed Amber object store using Iroh for cluster transport.
 - [omry](https://codeberg.org/omry/omry) - Save web pages you don't want to lose to a locally-hostable, searchable archive.
 - [Save DWeb Backend](https://github.com/OpenArchive/save-dweb-backend) - DWeb Backend for the Save app based on Veilid and Iroh.
+- [Wyrd](https://github.com/control-aesir/wyrd) - Append-only content-addressed drive with peer replication over Iroh.
 
 ## Browsers
 
