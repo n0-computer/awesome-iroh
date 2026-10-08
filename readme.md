@@ -45,6 +45,9 @@ Projects & resources building with iroh!
 
 ## AI/ML
 
+- [agent-mail](https://github.com/Shakakai/agent-mail) - A peer-to-peer mailbox for AI agents with local inbox/outbox storage and Iroh discovery.
+- [Motile](https://github.com/motileapp/motile) - A command center for coding agents that connects clients to remote servers over Iroh.
+- [papo](https://github.com/Kelvin-Jesus/papo) - A direct peer-to-peer link for Claude Code agents to communicate over Iroh.
 - [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) - Decentralized Compute Infrastructure for AI.
 - [Psyche](https://github.com/PsycheFoundation/psyche/) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
 - [Tandemn](https://github.com/Tandemn-Labs/tensor-iroh) - Iroh for tensors, used for inference over heterogeneous GPUs.
@@ -53,6 +56,7 @@ Projects & resources building with iroh!
 
 - [Aster](https://github.com/fractalbeauty/aster) - Local-first peer-to-peer music streaming prototype.
 - [Telepathy](https://github.com/chanderlud/telepathy) - Cross-platform real time communication with Iroh networking.
+- [zero-meet](https://github.com/orangetin/zero-meet) - A self-hostable video-calling app with Iroh networking.
 
 ## Archiving
 
@@ -66,6 +70,7 @@ Projects & resources building with iroh!
 ## Collaboration and Productivity
 
 - [biter](https://github.com/LukeDSchenk/biter) - Synchronize device clipboards via iroh.
+- [Knot](https://github.com/Fletcher-Alderton/knot) - A local-first Markdown Kanban board with peer-to-peer sync over Iroh.
 - [linXiv](https://github.com/linxiv-dev/linXiv) - Local-first academic paper manager with p2p sharing enabled using iroh.
 - [p2pmux](https://github.com/pelazas/p2pmux) - Terminal multiplexer where every pane is a PTY on its owner's own machine.
 - [Teamtype](https://github.com/teamtype/teamtype) - Editor-agnostic, real-time collaborative editing of local text files.
@@ -75,18 +80,20 @@ Projects & resources building with iroh!
 
 - [Codux](https://github.com/duxweb/codux) - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
 - [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
-- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [Edky](https://github.com/artob/edky) - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
+- [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
+- [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
+- [NexaPipe](https://github.com/open-nexa/nexapipe) - A self-hosted tunneling and proxy platform for local services, with Iroh transport.
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 - [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
+- [remote-device-sync](https://github.com/NDDev-OpenNetwork/remote-device-sync) - SSH connectivity and remote desktop sessions between devices, using Iroh peer connections.
 - [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
-- [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
-- [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
 
 ## File Sharing
 
@@ -109,6 +116,7 @@ Projects & resources building with iroh!
 
 ## Frameworks
 
+- [Mist](https://github.com/vafu/mist) - A cross-platform Rust Iroh runtime with Kotlin Multiplatform mobile bindings.
 - [Peernet](https://github.com/dvc94ch/peernet) - Easy & reliable p2p networking.
 - [p2panda](https://github.com/p2panda/p2panda) - Building blocks for peer-to-peer applications.
 
@@ -138,16 +146,18 @@ Projects & resources building with iroh!
 - [Bru](https://github.com/sverrejb/bru) - Read and send your phone's SMS, and sync clipboard text, from your desktop.
 - [Dash Chat](https://darksoil.studio) - Secure Chat for Internet Shutdowns.
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
+- [Kukuri](https://github.com/kukuri-app/kukuri) - A topic-first hybrid peer-to-peer social app blending Reddit, X, and VRChat.
+- [Rostra](https://radicle.network/nodes/radicle.dpc.pw/rad%3AzzK566qFsZnXomX2juRjxj9K1LuF) - A p2p (or rather f2f) social network.
 - [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
-- [Rostra](https://radicle.network/nodes/radicle.dpc.pw/rad%3AzzK566qFsZnXomX2juRjxj9K1LuF) - A p2p (or rather f2f) social network.
 - [Weird](https://weird.one/) - A way to be on the web.
 
 ## Tools for Thought
 
+- [Iroh Retro](https://codeberg.org/cemoktra/iroh-retro) - Serverless, no-account, retrospective for development teams.
 - [Kith](https://github.com/muhamadjawdatsalemalakoum/kith) - Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
-- [Iroh Retro](https://codeberg.org/cemoktra/iroh-retro) - Serverless, no-account, retrospective for development teams.
+- [Synesis](https://github.com/grimfeld/synesis) - An Obsidian-compatible, local-first Bible study vault that syncs paired devices directly over Iroh.
 
 ## Web3
 
