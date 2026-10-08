@@ -55,11 +55,14 @@ Projects & resources building with iroh!
 ## Audio/Video
 
 - [Aster](https://github.com/fractalbeauty/aster) - Local-first peer-to-peer music streaming prototype.
+- [OpusVoice](https://github.com/IAFahim/OpusVoice) - Android and browser Opus voice streaming with Pinhole sessions and native Iroh address and relay interoperability.
+- [OpusVoice.Receiver](https://github.com/YouAnd-I/OpusVoice.Receiver) - A C# RTP/Opus test sink that captures streams over UDP, WebSocket, and Pinhole/Iroh routes.
 - [Telepathy](https://github.com/chanderlud/telepathy) - Cross-platform real time communication with Iroh networking.
 - [zero-meet](https://github.com/orangetin/zero-meet) - A self-hostable video-calling app with Iroh networking.
 
 ## Archiving
 
+- [Backup Buddies](https://github.com/mspencerl87/backup-buddies-client) - Peer-to-peer file backups with local encryption, delta scans, and retained restore versions.
 - [omry](https://codeberg.org/omry/omry) - Save web pages you don't want to lose to a locally-hostable, searchable archive.
 - [Save DWeb Backend](https://github.com/OpenArchive/save-dweb-backend) - DWeb Backend for the Save app based on Veilid and Iroh.
 
@@ -125,9 +128,10 @@ Projects & resources building with iroh!
 - [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
 - [imsg](https://github.com/n0-computer/imsg) 🧪 - A base protocol providing streams of messages.
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
+- [iroh-http](https://github.com/changesbyjames/iroh-http) - An HTTP-like request/response protocol over Iroh QUIC streams, with Rust, Node.js, and browser/WebAssembly adapters.
+- [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
 - [iroh-rings](https://github.com/rikettsie/iroh-rings) - A relationship-based access control protocol for resources over iroh.
 - [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
-- [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
 
 ## Games and 3D
 
@@ -154,6 +158,7 @@ Projects & resources building with iroh!
 
 ## Tools for Thought
 
+- [Aurora](https://github.com/Lizeyun8501/Aurora) - A personal knowledge-management app for notes, tasks, and organizing ideas.
 - [Iroh Retro](https://codeberg.org/cemoktra/iroh-retro) - Serverless, no-account, retrospective for development teams.
 - [Kith](https://github.com/muhamadjawdatsalemalakoum/kith) - Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
