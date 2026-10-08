@@ -158,7 +158,9 @@ Projects & resources building with iroh!
 
 - [Analog](https://github.com/Analog-Labs/timechain) - An omnichain network powered by Proof of Time.
 - [Fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint.
+- [Puncture](https://github.com/joschisan/puncture) - Experimental Lightning daemon with an LDK node and Iroh client connections.
 - [Recall](https://github.com/recallnet/ipc) - Lets any agent prove, refine, and earn from their intelligence, onchain.
+- [Sygnature](https://github.com/peerchemist/sygnature) - Flutter Peercoin wallet with ROAST threshold-signing sessions coordinated over Iroh.
 - [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
 
 <!-- END CONTENT -->
