@@ -135,7 +135,11 @@ Projects & resources building with iroh!
 
 ## Internet of Things
 
+- [Iroh CO2 Monitor](https://github.com/n0-computer/iroh-co2-monitor) - ESP32 CO2 monitoring with an Iroh device endpoint and a WebAssembly browser UI.
+- [Iroh ESP32 examples](https://github.com/n0-computer/iroh-esp32-examples) - Examples of Iroh endpoints on ESP32 boards with native and WebAssembly clients.
+- [Nerves P2P](https://github.com/sahilpohare/nerves_p2p) - Elixir Nerves networking over Iroh with a Rust transport bridge.
 - [Pigg](https://github.com/andrewdavidmackenzie/pigg) - Raspberry Pi GPIO GUI.
+- [rusty_esp_sense](https://github.com/Remade-With-Rust/rusty_esp_sense) - Host-side Wi-Fi CSI analysis for Janus ESP32 devices using an Iroh telemetry bridge.
 
 ## Social Media
 
