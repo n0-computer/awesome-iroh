@@ -135,12 +135,15 @@ Projects & resources building with iroh!
 
 ## Social Media
 
+- [67Social](https://github.com/jtguzman/67social) - A social network for sharing posts and media.
 - [Bru](https://github.com/sverrejb/bru) - Read and send your phone's SMS, and sync clipboard text, from your desktop.
 - [Dash Chat](https://darksoil.studio) - Secure Chat for Internet Shutdowns.
 - [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
+- [iroh-IM](https://github.com/baisuipingan/iroh-IM) - A browser-based chatroom with a persistent room history.
+- [Rostra](https://radicle.network/nodes/radicle.dpc.pw/rad%3AzzK566qFsZnXomX2juRjxj9K1LuF) - A p2p (or rather f2f) social network.
 - [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 - [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) - Example cross-platform chat app demo, using Tauri v2 & React.
-- [Rostra](https://radicle.network/nodes/radicle.dpc.pw/rad%3AzzK566qFsZnXomX2juRjxj9K1LuF) - A p2p (or rather f2f) social network.
+- [tchata](https://github.com/charubaiel/tchata) - A group chat app with file sharing and optional assistant participants.
 - [Weird](https://weird.one/) - A way to be on the web.
 
 ## Tools for Thought
