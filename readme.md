@@ -91,7 +91,7 @@ Projects & resources building with iroh!
 - [NexaPipe](https://github.com/open-nexa/nexapipe) - A self-hosted tunneling and proxy platform for local services, with Iroh transport.
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 - [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
-- [remote-device-sync](https://github.com/NDDev-OpenNetwork/remote-device-sync) - SSH connectivity and remote desktop sessions between devices, using Iroh peer connections.
+- [remote-device-sync](https://github.com/NDDev-OpenNetwork/remote-device-sync) - An Iroh-based device-access tool with SSH support and a remote-desktop prototype still in development.
 - [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 
