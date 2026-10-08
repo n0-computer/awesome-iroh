@@ -52,6 +52,8 @@ Projects & resources building with iroh!
 ## Audio/Video
 
 - [Aster](https://github.com/fractalbeauty/aster) - Local-first peer-to-peer music streaming prototype.
+- [OpusVoice](https://github.com/IAFahim/OpusVoice) - Android and browser Opus voice streaming with Pinhole sessions and native Iroh address and relay interoperability.
+- [OpusVoice.Receiver](https://github.com/YouAnd-I/OpusVoice.Receiver) - A C# RTP/Opus test sink that captures streams over UDP, WebSocket, and Pinhole/Iroh routes.
 - [Telepathy](https://github.com/chanderlud/telepathy) - Cross-platform real time communication with Iroh networking.
 
 ## Archiving
