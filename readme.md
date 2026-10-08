@@ -117,13 +117,38 @@ Projects & resources building with iroh!
 
 ## Libraries and protocols
 
+- [Chatmail Core](https://github.com/chatmail/core) - Rust messaging core used by Delta Chat, including Iroh peer channels for webxdc applications.
+- [device-pairing](https://github.com/dragos-catalin/device-pairing) - Short-code device pairing with SPAKE2, SAS confirmation, a persisted trust store, and an Iroh transport.
 - [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - Iroh-gossip with auto discovery (no servers!)
+- [FlexAccess Iroh](https://github.com/flexaccessdev/flexaccess-iroh) - Shared Iroh transport, discovery, relay configuration, and connection logic for FlexAccess applications.
+- [go-iroh](https://github.com/tmc/go-iroh) - Peer-to-peer QUIC networking for Go implementing Iroh protocols.
+- [Grainlift Go](https://github.com/Query-farm/grainlift-go) - Go SDK for typed ADBC workers with an Iroh-aware VGI bridge transport.
+- [Grainlift TypeScript](https://github.com/Query-farm/grainlift-typescript) - TypeScript SDK for typed ADBC workers with an Iroh-aware VGI bridge transport.
+- [GuardianDB](https://github.com/wmaslonek/guardian-db) - Local-first decentralized database with Iroh networking and Gossip replication.
 - [imsg](https://github.com/n0-computer/imsg) 🧪 - A base protocol providing streams of messages.
+- [Iroh WebRTC transport (Anchal Shivank)](https://github.com/anchalshivank/iroh-webrtc-transport) - Experimental WebRTC data-channel custom transport for Iroh with QUIC-based signaling.
+- [Iroh WebRTC transport (SuddenlyHazel)](https://github.com/SuddenlyHazel/iroh-webrtc-transport) - Experimental WebRTC data-channel transport for Iroh with native and browser examples.
+- [iroh-acp-go](https://github.com/carsonfarmer/iroh-acp-go) - Go client and server transport for the Agent Client Protocol over Iroh.
+- [iroh-acp-rs](https://github.com/carsonfarmer/iroh-acp-rs) - Rust client and server transport for the Agent Client Protocol over Iroh.
+- [iroh-address-lookups](https://github.com/n0-computer/iroh-address-lookups) - DHT and mDNS address lookup implementations for Iroh.
+- [iroh-beekem](https://github.com/unfoldml/iroh-beekem) - Experimental confidential workspaces combining Iroh synchronization with Beekem group membership.
+- [iroh-ble-transport](https://github.com/mcginty/iroh-ble-transport) - Experimental Bluetooth Low Energy custom transport for Iroh.
+- [iroh-blobs](https://github.com/n0-computer/iroh-blobs) - Content-addressed blob-transfer protocol and stores built on Iroh.
+- [iroh-content-discovery](https://github.com/n0-computer/iroh-content-discovery) - Mainline DHT discovery for Iroh content and endpoints, with a local HTTP blob gateway.
+- [iroh-db](https://github.com/holon-technologies/iroh-db) - Local-first distributed database built on Iroh for data and blob synchronization.
+- [iroh-docs](https://github.com/n0-computer/iroh-docs) - Key-value document replication and synchronization protocol over Iroh.
+- [iroh-gossip](https://github.com/n0-computer/iroh-gossip) - Peer-to-peer topic broadcast and Gossip protocol for Iroh.
 - [iroh-gossip-discovery](https://github.com/therishidesai/iroh-gossip-discovery) - Peer discovery for iroh gossip topics.
+- [iroh-gossip-rendezvous](https://github.com/swaits/iroh-gossip-rendezvous) - Passphrase-based rendezvous for Iroh Gossip swarms using Mainline DHT.
 - [iroh-http](https://github.com/changesbyjames/iroh-http) - An HTTP-like request/response protocol over Iroh QUIC streams, with Rust, Node.js, and browser/WebAssembly adapters.
+- [iroh-http (Momics)](https://github.com/momics/iroh-http) - HTTP over Iroh QUIC with Deno, Node.js, and Tauri adapters.
 - [iroh-lighthouse](https://github.com/Jezza/iroh-lighthouse) - A self-hostable rendezvous server for topic based peer discovery.
+- [iroh-lighthouse TypeScript](https://github.com/Jezza/iroh-lighthouse-ts) - TypeScript and browser client for the Iroh Lighthouse topic-rendezvous protocol.
 - [iroh-rings](https://github.com/rikettsie/iroh-rings) - A relationship-based access control protocol for resources over iroh.
+- [iroh-topic-tracker](https://github.com/rustonbsd/iroh-topic-tracker) - Decentralized peer discovery for Iroh Gossip topics using signed DHT announcements.
+- [Irokle](https://github.com/arunaengine/irokle) - Signed Merkle DAG and topic synchronization library with an optional Iroh transport.
 - [irpc](https://github.com/n0-computer/irpc) - RPC for memory, quinn or iroh connections.
+- [NanoMesh](https://github.com/warpdrivelabs/nanomesh) - Experimental Rust messaging mesh with Iroh streams, Gossip, and pkarr discovery.
 
 ## Games and 3D
 
