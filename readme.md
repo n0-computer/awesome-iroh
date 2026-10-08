@@ -75,18 +75,19 @@ Projects & resources building with iroh!
 
 - [Codux](https://github.com/duxweb/codux) - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
 - [cross.stream](https://github.com/cablehead/xs) - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
-- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Datum](https://github.com/datum-cloud/app) - Expose local services to the internet.
+- [do-ssh](https://github.com/doEggi/do-ssh) - Tunnels an ssh-connection over iroh.
 - [Dumbpipe](https://github.com/n0-computer/dumbpipe) - Cross-device unix pipe.
 - [Edky](https://github.com/artob/edky) - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip.
 - [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
+- [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
+- [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
+- [natbench](https://github.com/0xprames/natbench) - A Linux NAT test harness that compares Iroh and Quinn under controlled network conditions.
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 - [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
 - [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
-- [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
-- [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
 
 ## File Sharing
 
