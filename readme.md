@@ -45,9 +45,26 @@ Projects & resources building with iroh!
 
 ## AI/ML
 
+- [a2a-codex](https://github.com/wayneColt/a2a-codex) - A2A protocol proxy for coding-agent clients using Iroh peer-to-peer networking.
+- [AgnView](https://github.com/tlaskar-git/AgnView) - Local coding-agent dashboard with an in-process Iroh transport for remote clients.
+- [Antgrid](https://github.com/antgrid-ai/antgrid) - Coding-agent environment with peer transport and remote control built on Iroh.
+- [blirp](https://github.com/backyarddd/blirp) - Self-hosted coding-agent workspace with Iroh pairing, device sync, proxying, and file transfer.
+- [Burn](https://github.com/tracel-ai/burn) - Tensor and deep-learning framework with an Iroh remote backend for execution and distributed training.
+- [Codevisor](https://github.com/851-labs/codevisor) - Native coding-agent application with an Iroh networking layer for remote clients.
+- [Company Mesh](https://github.com/LifeAnalysis/company-mesh) - Local-first MCP collaboration for agent teams over Iroh.
+- [DSH Tether](https://github.com/zexadev/dsh-tether) - Mobile client and Rust host for remote DeepSeek Harness access over Iroh.
+- [m2m](https://github.com/unconfirmedlabs/m2m) - Experimental agent messaging over Iroh QUIC.
+- [Maplayer](https://github.com/MainListActivity/maplayerdev) - Coding-agent host with Android and desktop clients using Iroh for remote sessions.
+- [modelpipe](https://github.com/mmogr/modelpipe) - Peer-to-peer access to local model servers over Iroh.
+- [OxideSwarm](https://github.com/DuongNAD/OxideSwarm) - Distributed coding-agent runtime with an Iroh peer-to-peer transport.
+- [p2claw-agent](https://github.com/phact/p2claw-agent) - Agent that exposes local applications over Iroh and WebRTC for browser access.
+- [PixelsAgentBridge](https://github.com/PixelsCloud/PixelsAgentBridge) - Device bridge exposing remote file, system, and agent operations over Iroh.
+- [PocketHound](https://github.com/arivsj/PocketHound) - Android client for remote coding-agent output and approvals with Iroh peer transport.
 - [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) - Decentralized Compute Infrastructure for AI.
 - [Psyche](https://github.com/PsycheFoundation/psyche/) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
+- [rho](https://github.com/casonadams/rho) - Rust coding agent with ticket-based collaborative sessions over Iroh.
 - [Tandemn](https://github.com/Tandemn-Labs/tensor-iroh) - Iroh for tensors, used for inference over heterogeneous GPUs.
+- [Walkie](https://github.com/alexcarney460-hue/walkie) - Team workspace for coding agents with an optional Iroh-based Walkie Direct transport.
 
 ## Audio/Video
 
