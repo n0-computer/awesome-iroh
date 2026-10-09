@@ -60,6 +60,7 @@ Projects & resources building with iroh!
 
 - [Backup Buddies](https://github.com/mspencerl87/backup-buddies-client) - Peer-to-peer file backups with local encryption, delta scans, and retained restore versions.
 - [omry](https://codeberg.org/omry/omry) - Save web pages you don't want to lose to a locally-hostable, searchable archive.
+- [P-Pass](https://github.com/hawkeye-xb/P-Pass) - Phones back up photos automatically to the computer at home, with no account and no cloud storage.
 - [Save DWeb Backend](https://github.com/OpenArchive/save-dweb-backend) - DWeb Backend for the Save app based on Veilid and Iroh.
 
 ## Browsers
