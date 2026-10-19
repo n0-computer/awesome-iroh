@@ -158,6 +158,7 @@ Projects & resources building with iroh!
 ## Web3
 
 - [Analog](https://github.com/Analog-Labs/timechain) - An omnichain network powered by Proof of Time.
+- [deCDN](https://github.com/decdn/decdn) - Decentralized CDN where nodes cache and serve content-addressed blobs over iroh, with per-megabyte USDC payments.
 - [Fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint.
 - [Recall](https://github.com/recallnet/ipc) - Lets any agent prove, refine, and earn from their intelligence, onchain.
 - [Thresh](https://github.com/rodrigomd94/Thresh) - A Desktop Cardano Wallet.
