@@ -133,6 +133,7 @@ Projects & resources building with iroh!
 - [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
 - [Godot Iroh](https://github.com/tipragot/godot-iroh) - A peer-to-peer multiplayer extension for Godot based on iroh.
 - [iroh-lan](https://github.com/rustonbsd/iroh-lan) - Have a lan party with iroh (iroh-lan = hamachi - account - install).
+- [SyncCrate](https://github.com/stixez/SyncCrate) - Keeps game mods, saves and configs identical across friends' PCs, peer to peer over LAN or iroh, for 120+ games.
 - [USD Renderer](https://github.com/expenses/usd-render) - Universal Scene Description Render, linked with iroh.
 
 ## Internet of Things
