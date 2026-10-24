@@ -98,7 +98,7 @@ Projects & resources building with iroh!
 - [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 - [ARK Drop Desktop](https://github.com/ARK-Builders/ARK-Drop-Desktop) - Use QR codes to quickly send and receive files between devices.
 - [Alt-sendme](https://github.com/tonyantony300/alt-sendme) - A cross-platform desktop application for file sharing, built with Tauri.
-- [Chorrent](https://github.com/mrsarthi/Chorrent) -  A BitTorrent-style swarm file transfer library and CLI: downloads pull verified pieces from every sharer at once.
+- [Chorrent](https://github.com/mrsarthi/Chorrent) - A BitTorrent-style swarm file transfer library and CLI: downloads pull verified pieces from every sharer at once.
 - [DataBeam](https://github.com/vinay-winai/DataBeam) - File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.
 - [Dropwire](https://github.com/muhamadjawdatsalemalakoum/dropwire) - Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.
 - [fsend](https://github.com/maxomatic458/fsend) - Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.
