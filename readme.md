@@ -155,6 +155,7 @@ Projects & resources building with iroh!
 - [Aurora](https://github.com/Lizeyun8501/Aurora) - A personal knowledge-management app for notes, tasks, and organizing ideas.
 - [Iroh Retro](https://codeberg.org/cemoktra/iroh-retro) - Serverless, no-account, retrospective for development teams.
 - [Kith](https://github.com/muhamadjawdatsalemalakoum/kith) - Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.
+- [Koru](https://github.com/koruworks/mono) - Offline-first, private workspace for notes and docs, built natively in Rust, with end-to-end encrypted peer-to-peer sync between your devices over iroh.
 - [Obsiroh](https://github.com/DrHongos/obsiroh) - An Obsidian sync method with iroh.
 
 ## Web3
