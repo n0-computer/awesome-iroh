@@ -138,6 +138,7 @@ Projects & resources building with iroh!
 
 ## Internet of Things
 
+- [Cerulion](https://github.com/cerulion-inc/cerulion) - Rust robot runtime that reaches remote robots over iroh, using direct peer-to-peer connections when possible and a relay when needed. Local 1 MiB round trip: 4.08 µs for native nodes against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026).
 - [Pigg](https://github.com/andrewdavidmackenzie/pigg) - Raspberry Pi GPIO GUI.
 
 ## Social Media
