@@ -88,6 +88,7 @@ Projects & resources building with iroh!
 - [pai-sho](https://github.com/cablehead/pai-sho) - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 - [Rayfish](https://github.com/rayfish/rayfish) - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
 - [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
+- [Sqwakie](https://github.com/alexcarney460-hue/walkie) - A walkie-talkie for a team's AI coding agents: Claude Code and Codex agents on different machines message each other peer-to-peer over iroh, with a shared live dashboard and project boards.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 - [Wispers Access](https://github.com/s-te-ch/wispers-access) - Share a web app with people you invite, without publishing it to the internet. Native phone and desktop apps, with iroh as the default p2p transport.
 - [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
