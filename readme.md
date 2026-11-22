@@ -70,6 +70,7 @@ Projects & resources building with iroh!
 ## Collaboration and Productivity
 
 - [biter](https://github.com/LukeDSchenk/biter) - Synchronize device clipboards via iroh.
+- [flipflop](https://github.com/andunieee/flipflop) - Persistent tunnels between devices (or web guests): Automerge-powered syncing of files, text, music (with synchronized listening), or custom WASM miniapps.
 - [linXiv](https://github.com/linxiv-dev/linXiv) - Local-first academic paper manager with p2p sharing enabled using iroh.
 - [p2pmux](https://github.com/pelazas/p2pmux) - Terminal multiplexer where every pane is a PTY on its owner's own machine.
 - [Teamtype](https://github.com/teamtype/teamtype) - Editor-agnostic, real-time collaborative editing of local text files.
