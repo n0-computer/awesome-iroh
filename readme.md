@@ -90,7 +90,7 @@ Projects & resources building with iroh!
 - [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
 - [Tunnet](https://github.com/tunnetio/Tunnet) - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 - [Wispers Access](https://github.com/s-te-ch/wispers-access) - Share a web app with people you invite, without publishing it to the internet. Native phone and desktop apps, with iroh as the default p2p transport.
-- [Zuko](https://github.com/adonm/zuko) - Remote PTYs over iroh, with Linux/macOS hosts, a Rust CLI, and beta desktop and mobile clients.
+- [Zuko](https://github.com/adonm/zuko) - Remote PTYs over iroh, with Linux/macOS hosts, a Rust CLI, and beta clients for Android, iOS/iPadOS, macOS, and Linux.
 - [locho](https://github.com/trchopan/locho) - Local + echo = locho: Access a private service on another machine as if it were local.
 - [koh](https://github.com/gold-silver-copper/koh) - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
 
